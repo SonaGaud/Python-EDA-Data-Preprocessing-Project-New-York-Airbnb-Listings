@@ -19,7 +19,7 @@
       
     **Instructions**
       - Clone the repository:
-          `git clone https://github.com/yourusername/airbnb-eda-project.git`
+          `git clone https://github.com/SonaGaud/Python-EDA-Data-Preprocessing-Project-New-York-Airbnb-Listings.git
           `cd airbnb-eda-project`
       - Install the required libraries:
           `pip install -r requirements.txt`
